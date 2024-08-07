@@ -29,7 +29,7 @@ document.onkeyup = (e) => {
             tab = classes.filter(getClass);
         }
         if (!tab) {
-            tabFields[0].querySelector("input, select, textarea, button:not(.datepicker-btn)").focus();
+            tabFields[0].querySelector("input, select, textarea, button").focus();
         }
     }
 };
