@@ -43,3 +43,6 @@ function getClass(cl) {
 2. Add classes to the fields that will define the tab order (e.g. tab-1, tab-2, tab-3, etc)
 
 ![](images/tab-order-class.png)
+
+# Page.Load
+1. Drag the "TabOrder" Global Scripot into the event handler
