@@ -5,6 +5,8 @@ Data capturing is quicker if the user does not have to select form fields using 
 ## Version 
 1.0 - initial
 
+# Setup
+
 ## Global Script
 1. Create a Global Script called "TabOrder"
 2. Add the input parameters below to the Global Script
